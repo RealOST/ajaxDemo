@@ -1,2 +1,2 @@
-# ajaxDemo
-使用ajax和json实现品牌管理页面的CRUD操作
+# maven_psj
+Maven项目练习Demo
